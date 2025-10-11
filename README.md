@@ -74,7 +74,7 @@ By leveraging survey data from the Behavioral Risk Factor Surveillance System (B
 
 
 📂 Project Structure
-
+```
 📦 diabetes-eda-prediction
 │
 ├── 📜 README.md
@@ -83,7 +83,7 @@ By leveraging survey data from the Behavioral Risk Factor Surveillance System (B
 └── 📂 data/
     ├── diabetes_binary_health_indicators_BRFSS2015.csv
     └── diabetes_012_health_indicators_BRFSS2015.csv
-
+```
 🧠 Future Work
 	•	Extend to multiclass prediction (Diabetes_012).
 	•	Explore ensemble stacking and feature selection.
